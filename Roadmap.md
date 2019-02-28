@@ -1,6 +1,6 @@
 
 # Roadmap
-_**Shadow-Umbrella-Corp - Creating opportunities for STEAM community builders and leaders to make their inclusive, innovative, community-oriented events/projects/programs a reality **_  
+_**Shadow-Umbrella-Corp - Creating opportunities for STEAM community builders and leaders to make their inclusive, innovative, community-oriented events/projects/programs a reality**_  
 
 We are EugeneTech, an enthusiastic group of STEAM community builders wanting to make the Eugene-Springfield area an inclusive and innovative hub of STEAM activity for all ages and demographics. We like to connect community groups with intersecting interests and goals that might not know about each other - to to build groups or events that are greater than the sum of their parts.
 
